@@ -1,1 +1,1 @@
-web: gunicorn api_home_risk:app
+web: run Flask P7_App.py
