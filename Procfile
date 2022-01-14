@@ -1,1 +1,1 @@
-web: run Flask P7_App.py
+web: run python P7_API_LBo.py
