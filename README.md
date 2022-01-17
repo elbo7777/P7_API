@@ -1,10 +1,11 @@
 # P7_API
 documents utiles au déploiement de l'API de prédiction de proba de non solvabilité
 
-## Déploiement en local de l'API
-...
+## Pour une utilisation en local de l'API
+```sh
 $ git clone 
 $ git cd
+```
 dans un navigateur internet : 
 - pour accéder à la homepage : http://localhost:5000
 - pour tester sur un client (identifiant 100001 par exemple) : http://localhost:5000/scores?index=100001
