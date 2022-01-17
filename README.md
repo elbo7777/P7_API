@@ -5,6 +5,8 @@ documents utiles au déploiement de l'API de prédiction de proba de non solvabi
 ```sh
 $ git clone https://github.com/elbo7777/P7_API.git
 $ git cd P7_API
+$ python3 -m venv P7_API
+$ pip install -r requirements.txt
 ```
 dans un navigateur internet : 
 - pour accéder à la homepage : http://localhost:5000
