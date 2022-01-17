@@ -3,8 +3,8 @@ documents utiles au déploiement de l'API de prédiction de proba de non solvabi
 
 ## Pour une utilisation en local de l'API
 ```sh
-$ git clone 
-$ git cd
+$ git clone https://github.com/elbo7777/P7_API.git
+$ git cd P7_API
 ```
 dans un navigateur internet : 
 - pour accéder à la homepage : http://localhost:5000
