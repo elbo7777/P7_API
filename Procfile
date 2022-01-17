@@ -1,1 +1,1 @@
-web: run python P7_API_LBo.py
+web: gunicorn P7_API_LBo:app
